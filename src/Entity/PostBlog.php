@@ -2,8 +2,6 @@
 
 namespace App\Entity;
 
-
-
 use ApiPlatform\Metadata\Get;
 use ApiPlatform\Metadata\GetCollection;
 use ApiPlatform\Metadata\Post;
